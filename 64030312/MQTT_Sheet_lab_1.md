@@ -69,6 +69,7 @@
 ## <<<บันทึกผลการเปลี่ยนที่เกิดขึ้นที่จุดต่างๆ ทั้งหมด>>>
 
 ตัวอย่างผลที่ได้
+![image](https://github.com/sucha312/MQTT_Lab_I/assets/115066208/47d54277-aa16-4377-a6e0-14cd70083ca4)
 
 
 ![Alt text](./Pictures/Picture-10.png)

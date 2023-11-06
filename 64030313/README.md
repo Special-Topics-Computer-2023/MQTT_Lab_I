@@ -19,4 +19,6 @@
 อาจตัดการเชื่อมต่อของตัวที่เข้ามาใหม่หรือตัดการเชื่อมต่อทั้งหมดขึ้นอยู่กับการกำหนดค่าของ MQTT broker
 ```
 ## ผลการทดลอง 6.1
+![image](https://github.com/NamaoySudarat/MQTT_Lab_I/assets/115037574/1696b4cc-687f-44bb-9b17-c581335a9ef1)
+
 ![image](https://github.com/NamaoySudarat/MQTT_Lab_I/assets/115037574/057c53e3-9998-4835-b1f8-ab087724f54c)

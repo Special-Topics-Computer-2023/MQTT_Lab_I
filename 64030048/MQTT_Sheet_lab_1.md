@@ -45,7 +45,6 @@
 
 ![Alt text](./Pictures/Picture-06.png)
 
-![ภาพ](https://github.com/kammam19/MQTT_Lab_I/assets/112167732/85004620-747a-4ee9-b3f4-c5d78ae88471)
 
 4.3 คลิกที่หัวข้อ topic1 จะพบว่าในกรอบ  Topic จะมีการดึงรายการหัวข้อที่เลือกมาแสดง
 
@@ -74,6 +73,12 @@
 
 ![Alt text](./Pictures/Picture-10.png)
 
+## 64030048/topic1
+![ภาพ](https://github.com/kammam19/MQTT_Lab_I/assets/112167732/446126ad-cfc6-45c3-b153-da406ade6007)
+## 64030048/topic2
+![ภาพ](https://github.com/kammam19/MQTT_Lab_I/assets/112167732/2cc9700c-e4c3-4f11-8c00-882a969470a8)
+## 64030048/topic (ลองหลายๆตัว)
+![ภาพ](https://github.com/kammam19/MQTT_Lab_I/assets/112167732/31ef22c5-edf3-4b31-915f-551a2de99aa4)
 
 ##  [>> หัวข้อต่อไป >>](./MQTT_Sheet_lab_2.md) 
 

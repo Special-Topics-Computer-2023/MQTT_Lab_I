@@ -80,6 +80,18 @@
 
 ## <<<บันทึกผลการเปลี่ยนที่เกิดขึ้นที่จุดต่างๆ ทั้งหมด>>>
 
+![Screenshot 2023-11-07 124936](https://github.com/CHAIYAPRUK/MQTT_Lab_I/assets/115066395/92c980ed-5778-4322-a3ea-115964f8e2d7)
+
+![Screenshot 2023-11-07 124953](https://github.com/CHAIYAPRUK/MQTT_Lab_I/assets/115066395/488369b7-9bed-4658-9c22-6dd2728c7c6f)
+
+![Screenshot 2023-11-07 125023](https://github.com/CHAIYAPRUK/MQTT_Lab_I/assets/115066395/a84ecba8-9e49-4c0c-acc4-078f1fdbea7f)
+
+![Screenshot 2023-11-07 125033](https://github.com/CHAIYAPRUK/MQTT_Lab_I/assets/115066395/71baba51-6a9c-47e8-9903-a205c23f1c44)
+
+
+
+
+
 ตัวอย่างผลที่ได้
 
 

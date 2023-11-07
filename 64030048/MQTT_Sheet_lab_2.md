@@ -25,11 +25,19 @@
 
 5.6 ทำตามการทดลองข้อ 4.1 ถึง 4.6  บันทึกผลที่ได้
 
+## ผลการทดลอง
+![ภาพ](https://github.com/kammam19/MQTT_Lab_I/assets/112167732/b3412ac1-2aae-465e-b4c4-0478f3235497)
+![ภาพ](https://github.com/kammam19/MQTT_Lab_I/assets/112167732/95cb5467-d50a-451d-893c-49b575f4e156)
+![ภาพ](https://github.com/kammam19/MQTT_Lab_I/assets/112167732/c4603389-5566-434e-b6e4-0497ffd4724d)
+![ภาพ](https://github.com/kammam19/MQTT_Lab_I/assets/112167732/1ca89fdd-aa46-4c7e-af51-f252f50c4856)
+![ภาพ](https://github.com/kammam19/MQTT_Lab_I/assets/112167732/3100cb16-1497-41ec-bb9e-7abf17293176)
+
 ## คำถาม 
 
-1. ในการส่งข้อความ ต้องมีกา่รลงทะเบียน topic ล่วงหน้าหรือไม่
+1. ในการส่งข้อความ ต้องมีการลงทะเบียน topic ล่วงหน้าหรือไม่
+## ตอบ 
 
 2. ถ้าใส่ MQTT Client ID ใน MQTT Explorer หลายตัวให้กันจะเกิดอะไรขึ้น ฺBroker จะตัดการเชื่อมต่อเฉพาะตัวที่เพิ่ง CONNECT เข้ามาหรือตัดทิ้งทั้งหมด
-
+## ตอบ 
 
 ##  [>> หัวข้อต่อไป >>](./MQTT_Sheet_lab_3.md) 

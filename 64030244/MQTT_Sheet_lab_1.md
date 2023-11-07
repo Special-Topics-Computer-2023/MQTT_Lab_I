@@ -59,6 +59,18 @@
 
 ## <<<บันทึกผลที่ได้>>> 
 
+![Screenshot 2023-11-07 124533](https://github.com/CHAIYAPRUK/MQTT_Lab_I/assets/115066395/348ed9c6-19cd-4de0-b699-5a6ded32239f)
+
+![Screenshot 2023-11-07 124601](https://github.com/CHAIYAPRUK/MQTT_Lab_I/assets/115066395/f57854dd-20c7-4303-88fb-81593dbe4f2f)
+
+![Screenshot 2023-11-07 124606](https://github.com/CHAIYAPRUK/MQTT_Lab_I/assets/115066395/b4bdac29-ca13-4e19-9d5b-3bc63f1d0129)
+
+![Screenshot 2023-11-07 124610](https://github.com/CHAIYAPRUK/MQTT_Lab_I/assets/115066395/d68a0826-262b-4de9-8a8c-47ec5d4fc9fe)
+
+
+
+
+
 
 4.6 ทดลองเพิ่ม topic โดยพิมพ์ รหัสนักศึกษา/topic2 ลงในช่อง topic ภายใต้หัวข้อ Pulish
 

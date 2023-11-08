@@ -55,7 +55,7 @@
 ![Alt text](./Pictures/Picture-08.png)
 
 4.5 ทดลองกด PUBLISH หลายๆ ครั้ง  
-
+![image](https://github.com/Prangpanwat/MQTT_Lab_I/assets/116150897/ef1cc0df-1e3d-42da-becf-e546af251da5)
 
 ## <<<บันทึกผลที่ได้>>> 
 
@@ -67,6 +67,7 @@
 กด ^ PUBLISH หนึ่งครั้ง
 
 ## <<<บันทึกผลการเปลี่ยนที่เกิดขึ้นที่จุดต่างๆ ทั้งหมด>>>
+![image](https://github.com/Prangpanwat/MQTT_Lab_I/assets/116150897/25a3797c-d73e-40e6-9527-e0e704a721d7)
 
 ตัวอย่างผลที่ได้
 

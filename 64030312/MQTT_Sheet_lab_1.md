@@ -71,6 +71,8 @@
 ตัวอย่างผลที่ได้
 ![image](https://github.com/sucha312/MQTT_Lab_I/assets/115066208/47d54277-aa16-4377-a6e0-14cd70083ca4)
 
+![image](https://github.com/sucha312/MQTT_Lab_I/assets/115066208/124bd4ff-e9e0-48d2-947d-6774f4c9df6e)
+
 
 ![Alt text](./Pictures/Picture-10.png)
 

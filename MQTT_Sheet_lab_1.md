@@ -67,6 +67,9 @@
 กด ^ PUBLISH หนึ่งครั้ง
 
 ## <<<บันทึกผลการเปลี่ยนที่เกิดขึ้นที่จุดต่างๆ ทั้งหมด>>>
+![image](https://github.com/suwithirunrat/MQTT_Lab_I/assets/116150760/614f7092-d38d-4599-85aa-b47fdedf28e4)
+
+![image](https://github.com/suwithirunrat/MQTT_Lab_I/assets/116150760/5a95db1a-9f41-49e7-96f0-09a5975f4474)
 
 ตัวอย่างผลที่ได้
 

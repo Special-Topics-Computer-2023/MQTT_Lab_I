@@ -69,6 +69,9 @@
 กด ^ PUBLISH หนึ่งครั้ง
 
 ## <<<บันทึกผลการเปลี่ยนที่เกิดขึ้นที่จุดต่างๆ ทั้งหมด>>>
+![image](https://github.com/TikPoramat2545/MQTT_Lab_I/assets/134470274/3eea0723-5ec4-4cac-96d1-b7dfce36175b)
+
+- มีหัวข้อ Topic2 ขึ้นที่ History
 
 ตัวอย่างผลที่ได้
 

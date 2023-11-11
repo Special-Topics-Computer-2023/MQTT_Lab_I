@@ -58,6 +58,8 @@
 
 
 ## <<<บันทึกผลที่ได้>>> 
+![image](https://github.com/TikPoramat2545/MQTT_Lab_I/assets/134470274/6d6b5d88-f637-41ee-bb79-1e1054ba67e9)
+
 
 
 4.6 ทดลองเพิ่ม topic โดยพิมพ์ รหัสนักศึกษา/topic2 ลงในช่อง topic ภายใต้หัวข้อ Pulish

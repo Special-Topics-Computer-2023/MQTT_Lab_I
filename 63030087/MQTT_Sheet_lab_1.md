@@ -70,10 +70,10 @@
 
 ตัวอย่างผลที่ได้
 
+![image](https://github.com/Sorrawit087/MQTT_Lab_I/assets/110808862/d03b7bf5-3f79-43d3-9d6c-97833b720ad8)
+![image](https://github.com/Sorrawit087/MQTT_Lab_I/assets/110808862/72756e59-d83a-4e00-a0e5-2ff2b5209133)
+![image](https://github.com/Sorrawit087/MQTT_Lab_I/assets/110808862/6e774bec-c622-4aa3-9b75-8e5681bf6f26)
 
-![Alt text](./63030087/Pictures/MQTT_1.1.png)
-![Alt text](./63030087/Pictures/MQTT_1.2.png)
-![Alt text](./63030087/Pictures/MQTT_1.3.png)
 
 
 ##  [>> หัวข้อต่อไป >>](./MQTT_Sheet_lab_2.md) 

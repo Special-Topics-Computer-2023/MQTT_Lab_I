@@ -59,6 +59,7 @@
 
 ## <<<บันทึกผลที่ได้>>> 
 
+![image](https://github.com/Siracha192/MQTT_Lab_I/assets/115066298/1dfc0d5c-6ec3-47f2-ab33-2b3becb766ef)
 
 4.6 ทดลองเพิ่ม topic โดยพิมพ์ รหัสนักศึกษา/topic2 ลงในช่อง topic ภายใต้หัวข้อ Pulish
 
@@ -67,6 +68,8 @@
 กด ^ PUBLISH หนึ่งครั้ง
 
 ## <<<บันทึกผลการเปลี่ยนที่เกิดขึ้นที่จุดต่างๆ ทั้งหมด>>>
+
+![image](https://github.com/Siracha192/MQTT_Lab_I/assets/115066298/7a9cad15-d211-4e90-a155-76599a1ae9d2)
 
 ตัวอย่างผลที่ได้
 

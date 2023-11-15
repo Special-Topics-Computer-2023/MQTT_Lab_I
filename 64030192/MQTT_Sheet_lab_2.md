@@ -25,6 +25,31 @@
 
 5.6 ทำตามการทดลองข้อ 4.1 ถึง 4.6  บันทึกผลที่ได้
 
+4.1
+
+![image](https://github.com/Siracha192/MQTT_Lab_I/assets/115066298/31fce298-8424-40d0-9008-d06aca2568c3)
+
+4.2
+
+![image](https://github.com/Siracha192/MQTT_Lab_I/assets/115066298/c4340747-7e0b-4f3a-b237-aa8b9d10b677)
+
+4.3
+
+![image](https://github.com/Siracha192/MQTT_Lab_I/assets/115066298/d1ee4900-97c1-4bfc-9403-5689e4cb025d)
+
+
+4.4
+
+![image](https://github.com/Siracha192/MQTT_Lab_I/assets/115066298/540ff02c-c502-473f-a335-a26ded1ebca8)
+
+4.5
+
+![image](https://github.com/Siracha192/MQTT_Lab_I/assets/115066298/a138c2ee-0fe0-487b-987d-573e73088ed4)
+
+4.6
+
+![image](https://github.com/Siracha192/MQTT_Lab_I/assets/115066298/8dbc097a-29b9-4cc4-8fb2-579e3dadb03d)
+
 ## คำถาม 
 
 1. ในการส่งข้อความ ต้องมีกา่รลงทะเบียน topic ล่วงหน้าหรือไม่
